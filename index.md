@@ -38,7 +38,7 @@ Syntax highlighted code block
 **Curriculum Vitae**
 1. Field of study
 2. ...
-[go](http://example.com/about.html)
+[go](http://example.com/about.md)
 
 
 [Link](url) and ![Image](src)
