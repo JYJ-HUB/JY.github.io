@@ -1,6 +1,6 @@
 ## Jinyoung's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/JYJ-HUB/JY.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](http://example.com/about.html) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -38,7 +38,7 @@ Syntax highlighted code block
 **Curriculum Vitae**
 1. Field of study
 2. ...
-[go](http://jekyllrb-ko.github.io/docs/pages/)
+[go](http://example.com/about.html)
 
 
 [Link](url) and ![Image](src)
