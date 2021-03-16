@@ -27,6 +27,7 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 [go](https://html5up.net/uploads/demos/hyperspace.md)
 ### Jekyll Themes
 
@@ -43,6 +44,18 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+---
+layout: post
+title:  "Welcome to Jekyll!"
+---
+
+# Welcome
+
+**Hello world**, this is my first Jekyll blog post.
+
+I hope you like it!
+
 
 
 ### Support or Contact
