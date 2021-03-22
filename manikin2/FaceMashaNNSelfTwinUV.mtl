@@ -1,0 +1,20 @@
+newmtl bodice_final:Mtl_body
+Ka 1.00 1.00 1.00
+Kd 1.00 1.00 1.00
+Ks 0.00 0.00 0.00
+map_Kd bodice_final_df_mirror.jpg
+newmtl newface1_sul:eyeL_hi
+Ka 0.00 0.00 0.00
+Kd 1.00 1.00 1.00
+Ks 0.00 0.00 0.00
+map_Kd face_final_eyel_hi.jpg
+newmtl newface1_sul:eyeR_hi
+Ka 0.00 0.00 0.00
+Kd 1.00 1.00 1.00
+Ks 0.00 0.00 0.00
+map_Kd face_final_eyer_hi.jpg
+newmtl newface1_sul:skin_med
+Ka 0.00 0.00 0.00
+Kd 1.00 1.00 1.00
+Ks 1.00 1.00 1.00
+map_Kd face_final_df.jpg
